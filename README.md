@@ -1,9 +1,9 @@
 ### Olá! Eu sou Samuel Felipe.
 
 - 🐱‍👤👍
-- 🐱 Front-end and JAVA developer
-- 🌱 Estudando UX Design
-- 🌱 Estudando JAVA
+- 🐱 Gosto de front-end e Inteligencia Artificial
+- 🌱 Estudando Inteligencia Artificial
+- 🌱 Estudando Python
 - 😉 Pronouns: Him/His
 
 
