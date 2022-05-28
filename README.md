@@ -2,7 +2,7 @@
 
 - 🐱‍👤👍
 - 🐱 Gosto de front-end e Inteligencia Artificial
-- 🌱 Estudando Inteligencia Artificial
+- 🌱 Estudando Machine Learning
 - 🌱 Estudando Python
 - 😉 Pronouns: Him/His
 
