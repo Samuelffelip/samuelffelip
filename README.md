@@ -1,7 +1,7 @@
 ### Olá! Eu sou Samuel Felipe.
 
 - 🐱‍👤👍
-- 🐱 Back-end Java
+- 🐱 Back-end Java ☕
 - 🌱 Estudando Java, Spring Boot e um pouco de HTML e CSS 
 - 😉 Pronouns: Him/His
 
