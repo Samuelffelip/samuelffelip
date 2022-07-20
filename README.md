@@ -1,4 +1,4 @@
-### Olá! Eu sou Samuel Felipe. 😉
+### Olá! Me chamo Samuel Felipe. 😉
 
 - 🧑‍💻🇧🇷
 - 🧑‍🎨 Front-end ❤️
