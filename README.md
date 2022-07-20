@@ -6,13 +6,13 @@
 - 😉 Pronouns: Him/His
 
 
-<div style="display: inline_block; margin-left: 20px;"><br>
+<div style="display: inline_block; margin-left: 20px; justify-content: space-between; "><br>
   
   <img align="center" alt="Samuca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Samuca-CSS" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="left" alt="Samuca-React" height="30" width="40"
+  <img align="center" alt="Samuca-React" height="30" width="40"
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 
                    
