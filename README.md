@@ -1,8 +1,8 @@
 ### Olá! Eu sou Samuel Felipe.
 
 - 🐱‍👤👍
-- 🐱 Back-end Java ☕
-- 🌱 Estudando Java, Spring Boot e um pouco de HTML e CSS 
+- 🐱 Front-end ❤️
+- 🌱 Estudando ReactJs ⚛️ 
 - 😉 Pronouns: Him/His
 
 
