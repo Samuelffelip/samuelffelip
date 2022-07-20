@@ -1,7 +1,7 @@
-### Olá! Me chamo Samuel Felipe. 😉
+### Olá! Eu sou Samuel Felipe. 😉
 
 - 🧑‍💻🇧🇷
-- 🧑‍🎨 Front-end ❤️
+- 🧑‍🎨 Desenvolvedor Front-end ❤️
 - 🌱 Atualmente estudando ReactJs ⚛️  
 
   <img align="right" alt="Samuca-React" height="30" width="40"
