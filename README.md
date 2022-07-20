@@ -1,9 +1,8 @@
-### Olá! Eu sou Samuel Felipe.
+### Olá! Eu sou Samuel Felipe. 😉
 
 - 🧑‍💻🇧🇷
 - 🧑‍🎨 Front-end ❤️
-- 🌱 Html-Css-Js-ReactJs ⚛️  
-- 😉 Pronouns: Him/His
+- 🌱 Atualmente estudando ReactJs ⚛️  
 
   <img align="right" alt="Samuca-React" height="30" width="40"
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
@@ -17,9 +16,6 @@
   <img align="right" alt="Samuca-CSS" height="30" width="40"          src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
 
   <img align="right" alt="Samuca-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  
-  <img align="right" alt="Samuca-Linux" height="30" width="40" 
-  src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   
   
 
