@@ -11,7 +11,7 @@
   
   <img align="center" alt="Samuca-CSS" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Samuca-Chrome" height="30" width="40"
+  <img align="center" alt="Samuca-Chrome" height="30" width="40" margin-top="5px"
   src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-plain-wordmark.svg">
           
           
