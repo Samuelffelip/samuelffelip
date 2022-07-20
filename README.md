@@ -2,23 +2,29 @@
 
 - 🧑‍💻🇧🇷
 - 🧑‍🎨 Front-end ❤️
-- 🌱 Html-Css-Js-ReactJs ⚛️ 
+- 🌱 Html-Css-Js-ReactJs ⚛️  
 - 😉 Pronouns: Him/His
 
-
-<div style="display: inline_block; margin-left: 20px; justify-content: space-between; "><br>
-  
-  <img align="center" alt="Samuca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="Samuca-CSS" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Samuca-React" height="30" width="40"
+  <img align="right" alt="Samuca-React" height="30" width="40"
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  
+  <img align="right" alt="Samuca-Bootstrap" height="30" width="40"
+  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  
+  <img align="right" alt="Samuca-Javascript" height="30" width="40"
+  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="right" alt="Samuca-CSS" height="30" width="40"          src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
 
-                   
- </div>
+  <img align="right" alt="Samuca-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  
+  <img align="right" alt="Samuca-Linux" height="30" width="40" 
+  src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  
+  
 
   ##
+  
   
 <div>
   <a href="https://instagram.com/samuelf_felipe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
