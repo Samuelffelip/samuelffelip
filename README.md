@@ -2,7 +2,6 @@
 
 - 🧑‍💻🇧🇷
 - 🧑‍🎨 Desenvolvedor Front-end ❤️
-- 🌱 Atualmente estudando ReactJs ⚛️  
 
   <img align="right" alt="Samuca-React" height="30" width="40"
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
