@@ -2,6 +2,7 @@
 
 - 🧑‍💻🇧🇷
 - 🧑‍🎨 Desenvolvedor Front-end ❤️
+- C - C++ - C# - Java - Python ❤️
 
   <img align="right" alt="Samuca-React" height="30" width="40"
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
