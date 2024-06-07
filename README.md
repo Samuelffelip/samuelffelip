@@ -1,8 +1,7 @@
 ### Olá! Eu sou Samuel Felipe. 😉
 
 - 🧑‍💻🇧🇷
-- 🧑‍🎨 Desenvolvimento Front-end ❤️
-- C / C++ / C# / Java / Python 👾
+- Ruby / Java / Python 👾
 - Linux 🐧
 
   <img align="right" alt="Samuca-React" height="30" width="40"
