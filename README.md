@@ -3,4 +3,4 @@
 - 🧑‍💻🇧🇷
 
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,git,html,css,github,py,java,vue,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,git,github,py,java,vue,flutter&theme=dark)](https://skillicons.dev)
