@@ -1,4 +1,4 @@
-### Olá! Eu sou Samuel Felipe. 😉
+## Hey ! My Name is Samuel Felipe 👋🏽
 
 - 🧑‍💻🇧🇷
 
