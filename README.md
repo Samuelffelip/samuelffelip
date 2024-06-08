@@ -3,4 +3,4 @@
 - 🧑‍💻🇧🇷
 
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel,git,py,java,github,sqlite,linux,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,git,github,py,java,mariadb,postgresql,sqlite,linux,bash&theme=dark)](https://skillicons.dev)
