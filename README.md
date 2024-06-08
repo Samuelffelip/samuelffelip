@@ -1,4 +1,4 @@
-# Hey ! My Name is Samuel Felipe 👋🏽
+# *Hey ! My Name is Samuel Felipe* 👋🏽
 
 ## Brazilian Back-end Developer 🇧🇷
 
